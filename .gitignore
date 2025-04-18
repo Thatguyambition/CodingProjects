@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+
+# Build folders (optional, but common)
+build/
+bin/
+debug/
+release/
+
+# IDE/editor settings
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.vcxproj*
+*.xcodeproj
+
+# MacOS or Windows system files
+.DS_Store
+Thumbs.db
+
+# Log or temp files
+*.log
+*.tmp
+
+# Editor backup files
+*~
+*.swp
+*.bak
